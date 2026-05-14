@@ -14,3 +14,7 @@ Squirrel is not a production-ready tensor library. The main goal of this project
 - [ ] views, slice, reshape, transpose
 
 ### Phase 2 - Autograd *(coming later)*
+
+## Unit tests
+
+Squirrel uses [Unity](https://github.com/ThrowTheSwitch/Unity) as its unit testing framework. Tests are located in `tests/` directory.
